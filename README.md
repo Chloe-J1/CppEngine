@@ -4,7 +4,7 @@
 [![Emscripten](https://github.com/Chloe-J1/Prog4Engine/actions/workflows/emscripten.yml/badge.svg)](https://github.com/Chloe-J1/Prog4Engine/actions/workflows/emscripten.yml)
 [![GitHub](https://img.shields.io/badge/GitHub-Prog4Engine-181717?logo=github)](https://github.com/Chloe-J1/Prog4Engine)
 
-In this project, I build a game engine from the ground up and recreated *Mrs Pacman* with it. 
+In this project, I build a game engine where I started from the [Minigin](https://github.com/avadae/minigin) template and recreated *Mrs Pacman* with it.   
 The game has three game modes:
 1. Single player: standard game mode
 2. Co-op: two players control their pacman and work together against the ghosts
